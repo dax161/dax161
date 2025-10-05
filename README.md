@@ -17,27 +17,3 @@
 <a href="https://www.linkedin.com/in/dax-mecatronico/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dax-ingeniero" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-
-
-<p align="left"> 
-  <!-- Arduino -->
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
-  </a> 
-
-  <!-- Microchip -->
-  <a href="https://www.microchip.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Microchip_Technology_logo.svg/512px-Microchip_Technology_logo.svg.png" alt="microchip" width="40" height="40"/> 
-  </a> 
-
-  <!-- Python -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-
-  <!-- ROS 2 -->
-  <a href="https://docs.ros.org/en/rolling/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/ros-infrastructure/artwork/master/ros2/ros2-white.png" alt="ros2" width="40" height="40"/> 
-  </a> 
-</p>
