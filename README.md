@@ -25,16 +25,19 @@
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
   </a> 
+
   <!-- Microchip -->
-  <a href="https://www.microchip.com/content/experience-fragments/mchp/en_us/site/header/master/_jcr_content/root/responsivegrid/header/logo.coreimg.100.300.png/1605828081463/microchip.png" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Microchip_Technology_logo.svg" alt="microchip" width="80" height="40"/> 
+  <a href="https://www.microchip.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Microchip_Technology_logo.svg/512px-Microchip_Technology_logo.svg.png" alt="microchip" width="40" height="40"/> 
   </a> 
+
   <!-- Python -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
+
   <!-- ROS 2 -->
-  <a href="https://www.ros.org/imgs/logo-white.png" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/ros-infrastructure/artwork/master/ros2/ros2.svg" alt="ros2" width="40" height="40"/> 
+  <a href="https://docs.ros.org/en/rolling/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/ros-infrastructure/artwork/master/ros2/ros2-white.png" alt="ros2" width="40" height="40"/> 
   </a> 
 </p>
